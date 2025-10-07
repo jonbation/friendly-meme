@@ -87,13 +87,3 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-## 🩹 Examples
-
-Checkout the examples for your preferred blockchain and platform in our [examples repository](https://github.com/Web3Auth/single-fact-auth-android/tree/master/app)
-
-
-## 💬 Troubleshooting and Discussions
-
-- Have a look at our [GitHub Discussions](https://github.com/Web3Auth/Web3Auth/discussions?discussions_q=sort%3Atop) to see if anyone has any questions or issues you might be having.
-- Checkout our [Troubleshooting Documentation Page](https://web3auth.io/docs/troubleshooting) to know the common issues and solutions
-- Join our [Discord](https://discord.gg/web3auth) to join our community and get private integration support or help with your integration.
